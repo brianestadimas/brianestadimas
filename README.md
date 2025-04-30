@@ -1,8 +1,8 @@
 ## Hello, World
 
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Brian — an AI engineer and researcher specializing in model robustness, lightweight gen AI, quantum computing, and semantic communication (research). I build, train, and deploy advanced AI systems across domains. 
-👉 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/brianestadimas/).
-👉 I can build/deploy any AI model using **React**/**Flask** on AWS EC2/RunPod. Connect with me on [Upwork](https://www.upwork.com/freelancers/~0103b96506d6dfc439)
+👉 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/brianestadimas/).<br/>
+👉 I can build/deploy any AI model using **React**/**Flask** on AWS EC2/RunPod. Connect with me on [Upwork](https://www.upwork.com/freelancers/~0103b96506d6dfc439).
 
 <table width="960px">
 <tr>
